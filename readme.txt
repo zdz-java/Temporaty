@@ -12,3 +12,4 @@ add one line in dev2.
 I'm working here and don't want to commit now...
 now I'm finish the work.
 add a function that still don't merge to master.
+add second function that still don't merge to master.
