@@ -7,5 +7,5 @@ create a new branch dev.
 change to public line.
 add one line in path1.
 add one line in public.
-add one line in dev.
+add one line in dev.now I fix the bug.
 add one line in dev2.
