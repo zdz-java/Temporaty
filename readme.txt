@@ -14,3 +14,4 @@ now I'm finish the work.
 add a function that still don't merge to master.
 add public function of 2cd and 3th.
 add one more function that still don't merge to master.
+add a new line in branch zdz.
